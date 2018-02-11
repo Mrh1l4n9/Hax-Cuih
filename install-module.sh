@@ -17,6 +17,9 @@ pip3 install -r exploit3r/requirements.txt
 pip install -r Infoga/requirements.txt
 pip2 install -r Infoga/requirements.txt
 pip3 install -r Infoga/requirements.txt
+pip install -r WPSeku/requirements.txt
+pip2 install -r WPSeku/requirements.txt
+pip3 install -r WPSeku/requirements.txt
 apt-get install libmoose-perl
 cpan -i Moose
 cpan -i threads
