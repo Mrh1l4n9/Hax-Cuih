@@ -1,0 +1,60 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs',
+1 verbose cli   '/usr/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'xsstracer_exploit.js' ]
+2 info using npm@3.5.2
+3 info using node@v4.2.6
+4 verbose config Skipping project config: /root/.npmrc. (matches userconfig)
+5 silly loadCurrentTree Starting
+6 silly install loadCurrentTree
+7 silly install readLocalPackageData
+8 silly fetchPackageMetaData xsstracer_exploit.js
+9 silly fetchOtherPackageData xsstracer_exploit.js
+10 silly cache add args [ 'xsstracer_exploit.js', null ]
+11 verbose cache add spec xsstracer_exploit.js
+12 silly cache add parsed spec Result {
+12 silly cache add   raw: 'xsstracer_exploit.js',
+12 silly cache add   scope: null,
+12 silly cache add   name: null,
+12 silly cache add   rawSpec: 'xsstracer_exploit.js',
+12 silly cache add   spec: '/root/XSSTracer/xsstracer_exploit.js',
+12 silly cache add   type: 'local' }
+13 silly addLocalTarball shasum (computed) fecfda48941c02a2c1e2070d898b24082b81b604
+14 verbose addTmpTarball /root/XSSTracer/xsstracer_exploit.js not in flight; adding
+15 verbose addTmpTarball validating metadata from /root/XSSTracer/xsstracer_exploit.js
+16 verbose tar unpack /root/XSSTracer/xsstracer_exploit.js
+17 verbose tar unpacking to /tmp/npm-11787-4646118f/unpack-f59b7f3e
+18 silly gentlyRm /tmp/npm-11787-4646118f/unpack-f59b7f3e is being purged
+19 verbose gentlyRm don't care about contents; nuking /tmp/npm-11787-4646118f/unpack-f59b7f3e
+20 silly gunzTarPerm modes [ '755', '644' ]
+21 error not a package /root/XSSTracer/xsstracer_exploit.js
+22 error addLocal Could not install /root/XSSTracer/xsstracer_exploit.js
+23 silly fetchPackageMetaData Error: ENOENT: no such file or directory, open '/tmp/npm-11787-4646118f/unpack-f59b7f3e/package.json'
+23 silly fetchPackageMetaData     at Error (native)
+23 silly fetchPackageMetaData  error for xsstracer_exploit.js { [Error: ENOENT: no such file or directory, open '/tmp/npm-11787-4646118f/unpack-f59b7f3e/package.json']
+23 silly fetchPackageMetaData   errno: -2,
+23 silly fetchPackageMetaData   code: 'ENOENT',
+23 silly fetchPackageMetaData   syscall: 'open',
+23 silly fetchPackageMetaData   path: '/tmp/npm-11787-4646118f/unpack-f59b7f3e/package.json' }
+24 silly rollbackFailedOptional Starting
+25 silly rollbackFailedOptional Finishing
+26 silly runTopLevelLifecycles Starting
+27 silly runTopLevelLifecycles Finishing
+28 silly install printInstalled
+29 verbose stack Error: ENOENT: no such file or directory, open '/tmp/npm-11787-4646118f/unpack-f59b7f3e/package.json'
+29 verbose stack     at Error (native)
+30 verbose cwd /root/XSSTracer
+31 error Linux 4.10.0-38-generic
+32 error argv "/usr/bin/nodejs" "/usr/bin/npm" "install" "xsstracer_exploit.js"
+33 error node v4.2.6
+34 error npm  v3.5.2
+35 error path /tmp/npm-11787-4646118f/unpack-f59b7f3e/package.json
+36 error code ENOENT
+37 error errno -2
+38 error syscall open
+39 error enoent ENOENT: no such file or directory, open '/tmp/npm-11787-4646118f/unpack-f59b7f3e/package.json'
+40 error enoent ENOENT: no such file or directory, open '/tmp/npm-11787-4646118f/unpack-f59b7f3e/package.json'
+40 error enoent This is most likely not a problem with npm itself
+40 error enoent and is related to npm not being able to find a file.
+41 verbose exit [ -2, true ]
