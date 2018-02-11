@@ -21,6 +21,7 @@ Automatic Penetration Testing in one tools.
 <br>
 <br>
 # How To Install
+<br>
 <code> $ git clone https://github.com/aryanrtm/Hax-Cuih </code><br>
 <code> $ cd Hax-Cuih </code><br>
 <code> $ chmod +x cuih.sh install-module.sh </code><br>
@@ -28,6 +29,7 @@ Automatic Penetration Testing in one tools.
 <br>
 <br>
 # After Installing The Module
+<br>
 <code> $ ./cuih.sh </code><br>
 <br>
 <br>
