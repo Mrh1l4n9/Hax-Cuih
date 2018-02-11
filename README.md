@@ -21,7 +21,7 @@ Automatic Penetration Testing in one tools.
 * Auto Exploiter Joomla<br>
 <br>
 <br>
-# How To Install
+<h1>How To Install</h1>
 <br>
 <code> $ git clone https://github.com/aryanrtm/Hax-Cuih </code><br>
 <code> $ cd Hax-Cuih </code><br>
@@ -29,7 +29,7 @@ Automatic Penetration Testing in one tools.
 <code> $ ./install-module.sh </code><br>
 <br>
 <br>
-# After Installing The Module
+<h1>After Installing The Module</h1>
 <br>
 <code> $ ./cuih.sh </code><br>
 <br>
