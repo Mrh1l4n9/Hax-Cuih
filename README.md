@@ -3,7 +3,7 @@ Automatic Penetration Testing in one tools.
 <br>
 <br>
 # Change Log
-11-02-2018
+* 11-02-2018
 <br>
 <br>
 # Features
@@ -21,3 +21,11 @@ Automatic Penetration Testing in one tools.
 <br>
 <br>
 # How To Install
+* $ git clone https://github.com/aryanrtm/Hax-Cuih
+* $ cd Hax-Cuih
+* $ chmod +x cuih.sh install-module.sh
+* $ ./install-module.sh
+<br>
+<br>
+# After Installing The Module
+* $ ./cuih.sh <br>
