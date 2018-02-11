@@ -35,4 +35,6 @@ Automatic Penetration Testing in one tools.
 <br>
 <br>
 <br>
-# Don't change the copyright, bitch.
+<h1>Report Bug</h1>
+<p>4wsec@cyberservices.com</p>
+<h3>Don't change the copyright, bitch. XD</h3>
