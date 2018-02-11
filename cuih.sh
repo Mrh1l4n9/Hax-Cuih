@@ -51,21 +51,6 @@ read -p "Input URL >> " fucked;
 echo ""
 echo ""
 
-# Snitch
-echo -e $blue"
-  +-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+
- |T|E|S|T|I|N|G| |O|N| |S|N|I|T|C|H|
- +-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+ "
-echo ""
-sleep 2
-python snitch/snitch.py -D ext -U http://$fucked/ -P 20
-echo ""
-echo -e $blue"
-  +-+-+-+-+-+-+ +-+-+-+-+-+-+-+-+-+ +-+-+-+-+
- |S|N|I|T|C|H| |F|I|N|I|S|H|E|D|,| |D|U|D|E|
- +-+-+-+-+-+-+ +-+-+-+-+-+-+-+-+-+ +-+-+-+-+ "
-echo ""
-echo "========================================"
 
 # CMSmap
 echo -e $blue"
