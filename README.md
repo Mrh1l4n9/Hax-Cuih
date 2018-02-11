@@ -21,16 +21,14 @@ Automatic Penetration Testing in one tools.
 <br>
 <br>
 # How To Install
-<br>
-<code> $ git clone https://github.com/aryanrtm/Hax-Cuih </code>
-<code> $ cd Hax-Cuih </code>
-<code> $ chmod +x cuih.sh install-module.sh </code>
-<code> $ ./install-module.sh </code>
+<code> $ git clone https://github.com/aryanrtm/Hax-Cuih </code><br>
+<code> $ cd Hax-Cuih </code><br>
+<code> $ chmod +x cuih.sh install-module.sh </code><br>
+<code> $ ./install-module.sh </code><br>
 <br>
 <br>
 # After Installing The Module
-<br>
- $ ./cuih.sh <br>
+<code> $ ./cuih.sh </code><br>
 <br>
 <br>
 <br>
