@@ -8,17 +8,17 @@ Automatic Penetration Testing in one tools.
 <br>
 <h1>Features Tools</h1>
 <br>
- BlackWidow<br>
- CMSmap<br>
- dirsearch<br>
- Email-Collector<br>
- exploit3r<br>
- Infoga<br>
- snitch<br>
- WP-Hunter<br>
- WPSeku<br>
- XSSTracer<br>
-<b>*</b> Auto Exploiter Joomla<br>
+* BlackWidow<br>
+* CMSmap<br>
+* dirsearch<br>
+* Email-Collector<br>
+* exploit3r<br>
+* Infoga<br>
+* snitch<br>
+* WP-Hunter<br>
+* WPSeku<br>
+* XSSTracer<br>
+* Auto Exploiter Joomla<br>
 <br>
 <br>
 <h1>How To Install</h1>
