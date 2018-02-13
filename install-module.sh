@@ -33,3 +33,4 @@ cpan -i Getopt::Std
 cpan -i MIME::Base64
 cpan -i YAML
 pip install -r WPSeku/requirements.txt
+chmod +x BlackWidow/blackwidow
